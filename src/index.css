@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-areia: #F5F0E6;
+  --color-palmeira: #2B3B2F;
+  --color-coco: #8B5E34;
+  --color-fibra: #E8C4A0;
+  --color-mar: #1C5F63;
+  --color-terracota: #C4451C;
+
+  --font-display: 'Cormorant', serif;
+  --font-body: 'Inter', sans-serif;
+}
