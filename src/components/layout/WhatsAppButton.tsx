@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '5585989264732'
+const WHATSAPP_NUMBER = '5585991020480'
 const WHATSAPP_MESSAGE =
   'Olá! Gostaria de saber mais sobre os produtos Coqueiro Beach Wear'
 
