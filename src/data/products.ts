@@ -1,6 +1,6 @@
 import type { Product } from '../types/Product'
-import biquiniCoco from '../assets/imagens/produtos/biquini-coco.png'
-import biquiniCocoCostas from '../assets/imagens/produtos/biquini-coco-costas.png'
+import biquiniCoco from '../assets/imagens/produtos/biquinicoco.png'
+import biquiniCocoCostas from '../assets/imagens/produtos/biquinicococostas.png'
 import biquiniMare from '../assets/imagens/produtos/biquinimare.png'
 
 export const products: Product[] = [
